@@ -1,0 +1,251 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8032 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\UnityEditor\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/GitHub/Projects/DungeonInvade/DungeonInvade
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58491
+Successfully changed project path to: E:/GitHub/Projects/DungeonInvade/DungeonInvade
+E:/GitHub/Projects/DungeonInvade/DungeonInvade
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/GitHub/Projects/DungeonInvade/DungeonInvade/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   26.21.14.4128
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56276
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001290 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 61.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.037 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 58.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.937 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.8 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2995.
+Total: 2.899500 ms (FindLiveObjects: 0.227600 ms CreateObjectMapping: 0.093700 ms MarkObjects: 1.679600 ms  DeleteObjects: 0.897500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 3.prefab
+  artifactKey: Guid(f492ac118c49d704c886bb0cd6a11dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 3.prefab using Guid(f492ac118c49d704c886bb0cd6a11dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec50145c08b005bd4563fba862dbad0') in 0.255081 seconds
+  Import took 0.259317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 1.prefab
+  artifactKey: Guid(3013bee5a671a6e4494847c742d91972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 1.prefab using Guid(3013bee5a671a6e4494847c742d91972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c9a784a95311113a6d9de716eb3a34') in 0.018259 seconds
+  Import took 0.033365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 4.prefab
+  artifactKey: Guid(15b65a00388534642a1ac27ee88b43f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 4.prefab using Guid(15b65a00388534642a1ac27ee88b43f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6af7b556e01fcd8b8f28df254661e5') in 0.027010 seconds
+  Import took 0.032929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 2.prefab
+  artifactKey: Guid(e0a50393ed2e1ca4e879079dfea9664c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs/Castle Stairs 2.prefab using Guid(e0a50393ed2e1ca4e879079dfea9664c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e3c22b2682b6dc644dc7b3d9151900') in 0.024043 seconds
+  Import took 0.029203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.847325 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs
+  artifactKey: Guid(8240be2d71a8fc24db33e8acb9c443b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Stair Prefabs using Guid(8240be2d71a8fc24db33e8acb9c443b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f2fde1f0e649938daee400a9b423c9') in 0.008237 seconds
+  Import took 0.073980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.363641 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Gate Prefabs/Iron Bars 1.prefab
+  artifactKey: Guid(0606acd8c4e646044bd935960e102339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Gate Prefabs/Iron Bars 1.prefab using Guid(0606acd8c4e646044bd935960e102339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e896825b5e1ae4c516bb880a85de5724') in 0.032259 seconds
+  Import took 0.085452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.848144 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1 Empty.prefab
+  artifactKey: Guid(c13aa258042605e4b8b444e14e98a79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1 Empty.prefab using Guid(c13aa258042605e4b8b444e14e98a79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1186e9c9934fcb4414aed67025e54644') in 0.015090 seconds
+  Import took 0.039280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004118 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1 Empty.prefab
+  artifactKey: Guid(c13aa258042605e4b8b444e14e98a79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1 Empty.prefab using Guid(c13aa258042605e4b8b444e14e98a79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1186e9c9934fcb4414aed67025e54644') in 0.020162 seconds
+  Import took 0.024555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.841997 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1.prefab
+  artifactKey: Guid(41fccb4ef5c533740ad7038d28ca07d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1.prefab using Guid(41fccb4ef5c533740ad7038d28ca07d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1824db6513bcf8709be13fa297e8ba') in 0.017655 seconds
+  Import took 0.046911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001463 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1.prefab
+  artifactKey: Guid(41fccb4ef5c533740ad7038d28ca07d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 1.prefab using Guid(41fccb4ef5c533740ad7038d28ca07d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1824db6513bcf8709be13fa297e8ba') in 0.020623 seconds
+  Import took 0.026599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.497403 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 2.prefab
+  artifactKey: Guid(96d04f9cc69fb6f4eb898a336d850e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 2.prefab using Guid(96d04f9cc69fb6f4eb898a336d850e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a8f634e5ea7996cbad3b3c270620a5') in 0.035312 seconds
+  Import took 0.063615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.530444 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 4.prefab
+  artifactKey: Guid(04e51660ed2ae664db6107c1f38fb74f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 4.prefab using Guid(04e51660ed2ae664db6107c1f38fb74f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03984389c55e5f54437dad4b708d8c9d') in 0.016450 seconds
+  Import took 0.028402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.455508 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 5.prefab
+  artifactKey: Guid(4d2e79db32110b9468c58ec2260371df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 5.prefab using Guid(4d2e79db32110b9468c58ec2260371df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae36f27c7da0c971321dae7519732157') in 0.018846 seconds
+  Import took 0.034541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004909 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 5.prefab
+  artifactKey: Guid(4d2e79db32110b9468c58ec2260371df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Towers Pilars/Castle Tower 5.prefab using Guid(4d2e79db32110b9468c58ec2260371df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae36f27c7da0c971321dae7519732157') in 0.020413 seconds
+  Import took 0.027416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.899848 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Walls Prefabs/Castle Wall 3.prefab
+  artifactKey: Guid(d9ba77b42843888419fcfca4da4fb5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Walls Prefabs/Castle Wall 3.prefab using Guid(d9ba77b42843888419fcfca4da4fb5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a71e5e9bd039e827c7c6b5cad3a7309') in 0.017238 seconds
+  Import took 0.029129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.103385 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Walls Prefabs/Castle Wall 4.prefab
+  artifactKey: Guid(4e88aac16404609499c34cfd0ad38c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Walls Prefabs/Castle Wall 4.prefab using Guid(4e88aac16404609499c34cfd0ad38c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b530516a3fe05dcfe14dfafbaf90762') in 0.015341 seconds
+  Import took 0.031907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001220 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Walls Prefabs/Castle Wall 4.prefab
+  artifactKey: Guid(4e88aac16404609499c34cfd0ad38c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Walls Prefabs/Castle Wall 4.prefab using Guid(4e88aac16404609499c34cfd0ad38c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b530516a3fe05dcfe14dfafbaf90762') in 0.013643 seconds
+  Import took 0.018122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.453950 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 1x3.prefab
+  artifactKey: Guid(fbafc2fd3b91e6847bf2c9297dab99fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 1x3.prefab using Guid(fbafc2fd3b91e6847bf2c9297dab99fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c62cc850e4b88d9a166410a676a6cb7') in 0.019830 seconds
+  Import took 0.042847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.456398 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2.prefab
+  artifactKey: Guid(7511850bb05cc1248b3f19f5e6191a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2.prefab using Guid(7511850bb05cc1248b3f19f5e6191a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9999c71b849805e012fe33672a21aaa0') in 0.014306 seconds
+  Import took 0.028165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.567115 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2x3.prefab
+  artifactKey: Guid(c2da72f7b69838b43ab073c8a36cc6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2x3.prefab using Guid(c2da72f7b69838b43ab073c8a36cc6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d781b4a4abc3915f5171e65baff641') in 0.025757 seconds
+  Import took 0.047236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.084499 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2x2.prefab
+  artifactKey: Guid(b85eaadde47cd974aa25d9bd3ae6b8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2x2.prefab using Guid(b85eaadde47cd974aa25d9bd3ae6b8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd6922f3c1138179012a9b032c1063a') in 0.026407 seconds
+  Import took 0.053542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.479477 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2x4.prefab
+  artifactKey: Guid(ed7eb847871ac0048b5421b78b46dc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Castle Building Kit/Prefabs/Blocks Prefabs/Castle Block 2x2x4.prefab using Guid(ed7eb847871ac0048b5421b78b46dc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5012f3806409d86c0f72f161914c6115') in 0.018452 seconds
+  Import took 0.028731 seconds .
+
+========================================================================
+Received Prepare

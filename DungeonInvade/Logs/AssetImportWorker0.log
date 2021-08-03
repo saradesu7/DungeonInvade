@@ -1,0 +1,291 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8032 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\UnityEditor\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/GitHub/Projects/DungeonInvade/DungeonInvade
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50801
+Successfully changed project path to: E:/GitHub/Projects/DungeonInvade/DungeonInvade
+E:/GitHub/Projects/DungeonInvade/DungeonInvade
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 76.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/GitHub/Projects/DungeonInvade/DungeonInvade/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   26.21.14.4128
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/UnityEditor/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001265 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 56.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.020 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001152 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 75.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.124 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.9 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2995.
+Total: 3.514100 ms (FindLiveObjects: 0.440500 ms CreateObjectMapping: 0.295500 ms MarkObjects: 1.897700 ms  DeleteObjects: 0.879600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Round Prefabs/Round Hollow 4.prefab
+  artifactKey: Guid(ec60d155f7b7fc946a1bf6ff97f81df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Round Prefabs/Round Hollow 4.prefab using Guid(ec60d155f7b7fc946a1bf6ff97f81df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52ce3eb5e739311f691b503ca8e721a') in 0.457009 seconds
+  Import took 0.462133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.467457 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Round Prefabs/Round Pineapple 1.prefab
+  artifactKey: Guid(e65bfd7311cd5c548ab4ce4374b6ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Round Prefabs/Round Pineapple 1.prefab using Guid(e65bfd7311cd5c548ab4ce4374b6ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a0a8d139b4a6d22e9b9a493d197afed') in 0.029786 seconds
+  Import took 0.050332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.892655 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Round Prefabs/Round Pineapple 2.prefab
+  artifactKey: Guid(3601e8f381c7f2f419bf8320a2d65e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Round Prefabs/Round Pineapple 2.prefab using Guid(3601e8f381c7f2f419bf8320a2d65e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7f5c20bfc297cd52844e18d07b67f5') in 0.050047 seconds
+  Import took 0.079061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.431864 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Sig Sag Prefabs/Sig Sag  Pyramid.prefab
+  artifactKey: Guid(ad89cac77079e92488853ed3e7591455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Sig Sag Prefabs/Sig Sag  Pyramid.prefab using Guid(ad89cac77079e92488853ed3e7591455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda2964c2d99b622bd18d54e30472d9c') in 0.027189 seconds
+  Import took 0.035929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.535152 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Sig Sag Prefabs/Sig Sag 1x2 Flat.prefab
+  artifactKey: Guid(264da3af1e424c7439bfc7546cd1c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Sig Sag Prefabs/Sig Sag 1x2 Flat.prefab using Guid(264da3af1e424c7439bfc7546cd1c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba1e6504990e9fe8a11b5ee24b1538a') in 0.022565 seconds
+  Import took 0.045403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.363485 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 2.prefab
+  artifactKey: Guid(51ae3f080b0f5574198b3193c6b6187f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 2.prefab using Guid(51ae3f080b0f5574198b3193c6b6187f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2999046df98d69813b31c94d34fc02be') in 0.032112 seconds
+  Import took 0.047059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.561437 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 6.prefab
+  artifactKey: Guid(e404537c4cbd3f3409eb4924c59b2092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 6.prefab using Guid(e404537c4cbd3f3409eb4924c59b2092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f67187b576e1d36a9d1a6814aeb8fe') in 0.047806 seconds
+  Import took 0.086716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.642537 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 8.prefab
+  artifactKey: Guid(d5b7db06ee954724c917b7c83ef2d092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 8.prefab using Guid(d5b7db06ee954724c917b7c83ef2d092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c51e1ddc1b3072ab8907fe1aae4101f') in 0.054776 seconds
+  Import took 0.092142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.874127 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 15.prefab
+  artifactKey: Guid(41ee05a687c6c4942928d40cb1646eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 15.prefab using Guid(41ee05a687c6c4942928d40cb1646eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7de8a3f61395967fdb4377e1771d615') in 0.059770 seconds
+  Import took 0.068409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.502033 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 14.prefab
+  artifactKey: Guid(1ca104c13ea503f41b88ee680789e560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Single Cubes Prefabs/Single Cube 14.prefab using Guid(1ca104c13ea503f41b88ee680789e560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e1dd5a05816fdb0fbc86d504111fa22') in 0.047248 seconds
+  Import took 0.064815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.096625 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Square Holes Prefabs
+  artifactKey: Guid(597f43dcfd9ce8a4bab0b33a7d6dad0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Square Holes Prefabs using Guid(597f43dcfd9ce8a4bab0b33a7d6dad0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0fc46a1df54aab5dd5dfdd63a036ce') in 0.019750 seconds
+  Import took 0.041585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.554980 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Square Holes Prefabs/Square Hole 3x4 One Sided.prefab
+  artifactKey: Guid(f4bf6091443e4524584ca67c8a579ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Square Holes Prefabs/Square Hole 3x4 One Sided.prefab using Guid(f4bf6091443e4524584ca67c8a579ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6155a2959947871f35268dc5283fa8') in 0.038342 seconds
+  Import took 0.070773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.343103 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Square Holes Prefabs/Square Hole 3x7.prefab
+  artifactKey: Guid(9240dc56787599844ab08719b80ace4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Square Holes Prefabs/Square Hole 3x7.prefab using Guid(9240dc56787599844ab08719b80ace4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b3ebd2e61311f80056ac93163f9766') in 0.064387 seconds
+  Import took 0.092578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.750849 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Ground X Prefabs
+  artifactKey: Guid(f117067c25eb1a840b435b2e05506642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Ground X Prefabs using Guid(f117067c25eb1a840b435b2e05506642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b0d9ad5a2688b481f7b46c8659b05d') in 0.037210 seconds
+  Import took 0.050678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.503229 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Platforms Stairs Fences Prefabs
+  artifactKey: Guid(8103ca89f2a8bc64eb04ece9f4066b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Platforms Stairs Fences Prefabs using Guid(8103ca89f2a8bc64eb04ece9f4066b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6e1d0aae40e1ebf283a7497efd336c') in 0.050230 seconds
+  Import took 0.061839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.740153 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Ground + Prefabs/Ground + Bright Flat Prefabs
+  artifactKey: Guid(a3107fbfae73db44ca4519b83b4b207e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Ground + Prefabs/Ground + Bright Flat Prefabs using Guid(a3107fbfae73db44ca4519b83b4b207e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b4d17ce896c36da3aee6136e188e1f') in 0.053444 seconds
+  Import took 0.079326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.311691 seconds.
+  path: Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Ground + Prefabs
+  artifactKey: Guid(3dd0883fe7a844f4a9e78d52e99b05e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DungeonInvade/Assets/Environment/Cartoon Temple Building Kit/Prefabs/Ground + Prefabs using Guid(3dd0883fe7a844f4a9e78d52e99b05e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94644558c5916479aaf40903cbbd6a88') in 0.008240 seconds
+  Import took 0.033300 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001357 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.8 MB.
+System memory in use after: 194.9 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 3043.
+Total: 3.020800 ms (FindLiveObjects: 0.261500 ms CreateObjectMapping: 0.113700 ms MarkObjects: 1.744500 ms  DeleteObjects: 0.900300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1452.241119 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16be676450d44e2f6ec1e370387d2562') in 0.028429 seconds
+  Import took 0.055705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002036 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16be676450d44e2f6ec1e370387d2562') in 0.002770 seconds
+  Import took 0.008113 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.8 MB.
+System memory in use after: 195.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3046.
+Total: 3.194900 ms (FindLiveObjects: 0.259800 ms CreateObjectMapping: 0.104000 ms MarkObjects: 1.865400 ms  DeleteObjects: 0.964800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.937 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.9 MB.
+System memory in use after: 195.0 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 3049.
+Total: 6.049700 ms (FindLiveObjects: 0.812700 ms CreateObjectMapping: 0.357600 ms MarkObjects: 3.445600 ms  DeleteObjects: 1.430900 ms)
+
